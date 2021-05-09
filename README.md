@@ -1,7 +1,7 @@
 # Share-Price-Prediction-using-Machine-Learning
 ## A Project Assignment assigned by Finacular.in ( A FinTech Startup).
 
-## Outline of a Project:
+## Outline of this Project:
 
 1- Fetching or Extracting the Share Price of any company or firm using InvestPy Library provided by Investing.com.
    https://pypi.org/project/investpy/
